@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bhaskara.Teste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b93f3e16323c88217c94cc85589c1fc80d91b248")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bhaskara.Teste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bhaskara.Teste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -100,3 +100,4 @@ C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara.Teste\obj\Debug\net8.0\r
 C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara.Teste\obj\Debug\net8.0\Bhaskara.Teste.pdb
 C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara.Teste\obj\Debug\net8.0\Bhaskara.Teste.genruntimeconfig.cache
 C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara.Teste\obj\Debug\net8.0\ref\Bhaskara.Teste.dll
+C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara.Teste\obj\Debug\net8.0\Bhaskara.Teste.sourcelink.json

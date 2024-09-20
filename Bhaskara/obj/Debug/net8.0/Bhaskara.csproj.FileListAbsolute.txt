@@ -9,3 +9,4 @@ C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskar
 C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara\obj\Debug\net8.0\refint\Bhaskara.dll
 C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.pdb
 C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara\obj\Debug\net8.0\ref\Bhaskara.dll
+C:\Users\SENAI3EM\Desktop\2B\Bhaskara\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.sourcelink.json
